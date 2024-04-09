@@ -41,7 +41,7 @@
 <a href="https://instagram.com/mitsuo.honda" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-mitsuo.honda-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://youtube.com/lmitsuol" target="_blank">
+<a href="https://www.youtube.com/channel/UCi72q5OgkfpcGxiRALdfiWw" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-lmitsuol-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
