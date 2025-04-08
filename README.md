@@ -1,4 +1,3 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/lmitsuol/fe2e9dd363e8a90c54cd6150f2e092ab/raw/bca36f70f57e87c188e4b30837ae911fd1fe8fea/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Guilherme Mitsuo Honda!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lmitsuol&color=red" alt="Profile views" /> </p>
 
