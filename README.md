@@ -29,7 +29,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmitsuol&layout=compact&theme=vision-friendly-dark" alt="lmitsuol's most languages"/>
 </p>
 
-## Contact
+## 🫣 Contact
 
 <p align="left" style="background:yellow">
 <a href="https://twitter.com/lmitsuol" target="_blank">
