@@ -10,7 +10,7 @@
 
 - 💬 Things I like **Hardwares, coding, games, cars**
 
-- ⚡ Fun fact **I'm 6,4 ft**
+- ⚡ **Git Gud**
 
 - 👨‍💻 My playlist on [Spotify](https://open.spotify.com/playlist/1H8Qs40abqKJipgp4DYcoq?si=0281022d22294793)
 
@@ -35,7 +35,7 @@
 <a href="https://twitter.com/lmitsuol" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-lmitsuol-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://www.linkedin.com/in/mitsuo-honda-464506303/" target="_blank">
+<a href="https://www.linkedin.com/in/guilherme-honda-464506303/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-lmitsuol-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/mitsuo.honda" target="_blank">
