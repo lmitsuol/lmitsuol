@@ -8,8 +8,10 @@
   <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Flmitsuol&s=21&c=5cadc0&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
 </div>
 
-
-![Bonfire_zpsedocgnqr](https://github.com/user-attachments/assets/88ddfeb7-f848-4398-9dcf-22feec9248f2)
+<p align="center">
+  <img src="![Bonfire_zpsedocgnqr](https://github.com/user-attachments/assets/88ddfeb7-f848-4398-9dcf-22feec9248f2)
+" alt="animated" />
+</p>
 
 ## 🛠 &nbsp;Tech Stack
 
