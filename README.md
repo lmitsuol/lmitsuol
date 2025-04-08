@@ -1,17 +1,15 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Guilherme Mitsuo Honda!</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lmitsuol&color=red" alt="Profile views" /> </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0"/>
 
-- 🔥 Learning the basics! 💪
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=I+am+From+Brazil;I'm+a+Student+of+Information+Systems;I'm+Also+a+Trophy+Hunter;Be+welcome!" alt="Typing SVG"/>
+</div>
 
-- 🔭 I’m currently working at JAVA projects
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Flmitsuol&s=21&c=5cadc0&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+</div>
 
-- ▶️ I regularly post videos on [youtube.com/lmitsuol](https://www.youtube.com/channel/UCi72q5OgkfpcGxiRALdfiWw)
 
-- 💬 Things I like **Hardwares, coding, games, cars**
-
-- ⚡ **Git Gud**
-
-- 👨‍💻 My playlist on [Spotify](https://open.spotify.com/playlist/1H8Qs40abqKJipgp4DYcoq?si=0281022d22294793)
+![Bonfire_zpsedocgnqr](https://github.com/user-attachments/assets/88ddfeb7-f848-4398-9dcf-22feec9248f2)
 
 ## 🛠 &nbsp;Tech Stack
 
