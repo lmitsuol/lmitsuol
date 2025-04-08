@@ -23,11 +23,15 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=lmitsuol&show_icons=true&theme=vision-friendly-dark" alt="lmitsuol's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmitsuol&layout=compact&theme=vision-friendly-dark" alt="lmitsuol's most languages"/>
-</p>
+<div align="center">
 
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lmitsuol&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lmitsuol&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lmitsuol&theme=nord_dark&utcOffset=8) |
+| :-: | :-: | :-: |
+
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lmitsuol&theme=nord_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lmitsuol&theme=nord)](https://git.io/streak-stats) |
+| :-: | :-: |
+  
+</div>
 ## 🫣 Contact
 
 <p align="left" style="background:yellow">
