@@ -29,7 +29,8 @@
 | :-: | :-: |
   
 </div>
-## 🫣 Contact
+
+## 🫣 &nbsp;Contact Me
 
 <p align="left" style="background:yellow">
 <a href="https://twitter.com/lmitsuol" target="_blank">
