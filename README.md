@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=391b3c"/>
 
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=I+am+From+Brazil;I'm+a+Student+of+Information+Systems;I'm+Also+a+Trophy+Hunter;Be+welcome!" alt="Typing SVG"/>
@@ -8,10 +8,7 @@
   <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Flmitsuol&s=21&c=5cadc0&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
 </div>
 
-<p align="center">
-  <img src="![Bonfire_zpsedocgnqr](https://github.com/user-attachments/assets/88ddfeb7-f848-4398-9dcf-22feec9248f2)
-" alt="animated" />
-</p>
+
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -28,7 +25,7 @@
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lmitsuol&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lmitsuol&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lmitsuol&theme=nord_dark&utcOffset=8) |
 | :-: | :-: | :-: |
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lmitsuol&theme=nord_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lmitsuol&theme=nord)](https://git.io/streak-stats) |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lmitsuol&theme=nord_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lmitsuol&theme=dark)](https://git.io/streak-stats) |
 | :-: | :-: |
   
 </div>
@@ -48,3 +45,5 @@
  <img align="center" src="https://img.shields.io/badge/-lmitsuol-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=391b3c&height=100&section=footer"/>
