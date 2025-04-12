@@ -76,14 +76,29 @@
 ##
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=!PRAISE THE SUN!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=>PRAISE THE SUN<" alt="Typing SVG"/>
 </div>
 
 ![Captura de tela 2025-04-11 235806](https://github.com/user-attachments/assets/77e0ab60-e507-4292-94d7-1ccf88eb499b)
 
 ##
 
-<!-- BEGIN YOUTUBE-CARDS -->
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=~My Yt Channel~" alt="Typing SVG"/>
+</div>
+
+<!-- BEGIN YOUTUBE-CARDS --> 
+<a href="https://youtu.be/dLerRJA5KN0?si=9oO4M65NmEoRP1c_">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dLerRJA5KN0&title=xd&lang=en&timestamp=1743921871&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172">
+    <img src="https://ytcards.demolab.com/?id=dLerRJA5KN0&title=xd&lang=en&timestamp=1743921871&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=172" alt="xd" title="xd">
+  </picture>
+  </a>
+<a href="https://youtu.be/y7mN4w-GXzo?si=vX6vgqalo_R2uySP">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=y7mN4w-GXzo&title=Testando+games+com+Ryzen+5+5600x+e+RX+7900+GRE&lang=en&timestamp=1738565071&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=257">
+    <img src="https://ytcards.demolab.com/?id=y7mN4w-GXzo&title=Testando+games+com+Ryzen+5+5600x+e+RX+7900+GRE&lang=en&timestamp=1738565071&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=257" alt="Testando games com Ryzen 5 5600x e RX 7900 GRE" title="Testando games com Ryzen 5 5600x e RX 7900 GRE">
+  </picture>
 <!-- END YOUTUBE-CARDS -->
 
 
