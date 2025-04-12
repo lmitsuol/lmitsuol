@@ -1,24 +1,35 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=391b3c"/>
 
+<div align="center">
+  <samp>
+    <b>
+      太陽を讃える
+      <br>
+      ~Guilherme Mitsuo Honda~
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=I+am+From+Brazil;I'm+a+Student+of+Information+Systems;I'm+Also+a+Trophy+Hunter;Be+welcome!" alt="Typing SVG"/>
 </div>
+
+<br>
+<br>
 
 <div align="center">
   <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Flmitsuol&s=21&c=5cadc0&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
 </div>
 
+![Bonfire - Imgur](https://github.com/user-attachments/assets/e2967077-035c-484a-9e8f-a73bb30210b6)
 
 
-## 🛠 &nbsp;Tech Stack
+<br>
+<details align="center">
+    <summary>
+      <samp>
+        <b>Click For More Info</b>
+      </samp>
+    </summary>
+    <br>
+<div align="center">
 
-![JAVA](https://img.shields.io/badge/-Java-orange.svg)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-## ⚙️ &nbsp;GitHub Analytics
 
 <div align="center">
 
@@ -30,21 +41,53 @@
   
 </div>
 
-## 🫣 &nbsp;Contact Me
+</div>
 
-<p align="left" style="background:yellow">
-<a href="https://twitter.com/lmitsuol" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-lmitsuol-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://www.linkedin.com/in/guilherme-honda-464506303/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-lmitsuol-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/mitsuo.honda" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-mitsuo.honda-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://www.youtube.com/channel/UCi72q5OgkfpcGxiRALdfiWw" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-lmitsuol-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
-</p>
+<div align="center" style="display: inline_block"><br>
+  
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" />
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  
+  
+</div>
+
+<br>
+
+##
+
+<br>
+
+<div align="center">
+
+  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:guihonda10@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/mitsuo.honda/?next=%2F)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/guilherme-honda-464506303/)
+  [![Reddit](https://img.shields.io/badge/Reddit-2e3440?style=for-the-badge&logo=Reddit&logoColor=fff)](https://www.reddit.com/user/lmitsuol/)
+  [![Youtube](https://img.shields.io/badge/Youtube-2e3440?style=for-the-badge&logo=Youtube&logoColor=fff)](https://www.youtube.com/@lmitsuol)
+  [![Steam](https://img.shields.io/badge/Steam-2e3440?style=for-the-badge&logo=Steam&logoColor=fff)](https://steamcommunity.com/id/lmitsuol/)
+  
+</div>
+
+##
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=!PRAISE THE SUN!" alt="Typing SVG"/>
+</div>
+
+![Captura de tela 2025-04-11 235806](https://github.com/user-attachments/assets/77e0ab60-e507-4292-94d7-1ccf88eb499b)
+
+##
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
+
+</details>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=391b3c&height=100&section=footer"/>
