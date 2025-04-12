@@ -7,7 +7,7 @@
       <br>
       ~Guilherme Mitsuo Honda~
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=I+am+From+Brazil;I'm+a+Student+of+Information+Systems;I'm+Also+a+Trophy+Hunter;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=I'm+From+Brazil;I'm+a+Student+of+Information+Systems;I'm+Also+a+Trophy+Hunter;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
