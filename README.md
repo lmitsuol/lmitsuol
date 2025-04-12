@@ -87,18 +87,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=~My Yt Channel~" alt="Typing SVG"/>
 </div>
 
-<!-- BEGIN YOUTUBE-CARDS --> 
-<a href="https://youtu.be/dLerRJA5KN0?si=9oO4M65NmEoRP1c_">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=dLerRJA5KN0&title=xd&lang=en&timestamp=1743921871&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172">
-    <img src="https://ytcards.demolab.com/?id=dLerRJA5KN0&title=xd&lang=en&timestamp=1743921871&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=172" alt="xd" title="xd">
-  </picture>
-  </a>
-<a href="https://youtu.be/y7mN4w-GXzo?si=vX6vgqalo_R2uySP">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=y7mN4w-GXzo&title=Testando+games+com+Ryzen+5+5600x+e+RX+7900+GRE&lang=en&timestamp=1738565071&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=257">
-    <img src="https://ytcards.demolab.com/?id=y7mN4w-GXzo&title=Testando+games+com+Ryzen+5+5600x+e+RX+7900+GRE&lang=en&timestamp=1738565071&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=257" alt="Testando games com Ryzen 5 5600x e RX 7900 GRE" title="Testando games com Ryzen 5 5600x e RX 7900 GRE">
-  </picture>
+<!-- BEGIN YOUTUBE-CARDS -->
+[![xd](https://ytcards.demolab.com/?id=dLerRJA5KN0&title=xd&lang=en&timestamp=1743961545&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "xd")](https://www.youtube.com/watch?v=dLerRJA5KN0)
+[![Testando games com Ryzen 5 5600x e RX 7900 GRE](https://ytcards.demolab.com/?id=y7mN4w-GXzo&title=Testando+games+com+Ryzen+5+5600x+e+RX+7900+GRE&lang=en&timestamp=1738626629&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Testando games com Ryzen 5 5600x e RX 7900 GRE")](https://www.youtube.com/watch?v=y7mN4w-GXzo)
+[![Battlefield é uma das franquias mais gostosas de jogar, mas odeio a EA](https://ytcards.demolab.com/?id=iwI_KW-ZcR8&title=Battlefield+%C3%A9+uma+das+franquias+mais+gostosas+de+jogar%2C+mas+odeio+a+EA&lang=en&timestamp=1727533722&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Battlefield é uma das franquias mais gostosas de jogar, mas odeio a EA")](https://www.youtube.com/watch?v=iwI_KW-ZcR8)
+[![ready or not](https://ytcards.demolab.com/?id=a2M4JBAe4bE&title=ready+or+not&lang=en&timestamp=1709133681&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ready or not")](https://www.youtube.com/watch?v=a2M4JBAe4bE)
+[![o somzinho](https://ytcards.demolab.com/?id=nnKYEokQwcg&title=o+somzinho&lang=en&timestamp=1705937031&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "o somzinho")](https://www.youtube.com/watch?v=nnKYEokQwcg)
+[![...](https://ytcards.demolab.com/?id=AAXSUHomWiI&title=...&lang=en&timestamp=1705936808&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "...")](https://www.youtube.com/watch?v=AAXSUHomWiI)
 <!-- END YOUTUBE-CARDS -->
 
 
