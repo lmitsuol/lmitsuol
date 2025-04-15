@@ -75,17 +75,18 @@
 
 ##
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=>PRAISE THE SUN<" alt="Typing SVG"/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=PRAISE+THE+SUN" alt="Typing SVG"/>
 </div>
 
 ![Captura de tela 2025-04-11 235806](https://github.com/user-attachments/assets/77e0ab60-e507-4292-94d7-1ccf88eb499b)
 
 ##
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=~My Yt Channel~" alt="Typing SVG"/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=~My+YT+Channel~" alt="Typing SVG"/>
 </div>
+
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![xd](https://ytcards.demolab.com/?id=dLerRJA5KN0&title=xd&lang=en&timestamp=1743961545&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "xd")](https://www.youtube.com/watch?v=dLerRJA5KN0)
