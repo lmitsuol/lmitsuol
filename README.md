@@ -3,7 +3,7 @@
 <div align="center">
   <samp>
     <b>
-      太陽を讃える
+      太陽を讃える a
       <br>
       ~Guilherme Mitsuo Honda~
 <div align="center" width="100%">
