@@ -24,7 +24,7 @@
 <details align="center">
     <summary>
       <samp>
-        <b>Click For More Info</b>
+        <b>Click For More In</b>
       </samp>
     </summary>
     <br>
