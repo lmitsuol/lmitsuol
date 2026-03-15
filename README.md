@@ -76,10 +76,11 @@
 ##
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=PRAISE+THE+SUN" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=My+Hobby" alt="Typing SVG"/>
 </div>
 
 ![Captura de tela 2025-04-11 235806](https://github.com/user-attachments/assets/77e0ab60-e507-4292-94d7-1ccf88eb499b)
+
 
 ##
 
