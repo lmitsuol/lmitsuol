@@ -76,11 +76,11 @@
 ##
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=My+Hobby" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=~My+Hobby~" alt="Typing SVG"/>
 </div>
 
-![Captura de tela 2025-04-11 235806](https://github.com/user-attachments/assets/77e0ab60-e507-4292-94d7-1ccf88eb499b)
-
+<img width="633" height="555" alt="Image" src="https://github.com/user-attachments/assets/c44149f1-890a-44b1-8319-a62bc79f34f6" />
+<img width="664" height="563" alt="Image" src="https://github.com/user-attachments/assets/22f34729-2228-4de7-91f7-0fdf16dd169f" />
 
 ##
 
