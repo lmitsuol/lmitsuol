@@ -14,9 +14,6 @@
 <br>
 
 
-![Bonfire - Imgur](https://github.com/user-attachments/assets/e2967077-035c-484a-9e8f-a73bb30210b6)
-
-
 <br>
 <details align="center">
     <summary>
